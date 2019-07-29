@@ -44,7 +44,7 @@ p {
 	background-image: url(../imgs/front.jpg);
 }
 #title_text {
-	top: 10%;
+	top: 5%;
 	left: 10%;
 	position: relative;
 }
@@ -71,7 +71,7 @@ p {
 /* Reviews Overview
 * --------------------------------------- */
 #bubble_title {
-  margin: 50px;
+  margin: 30px;
 }
 #bubble_content {
   position: absolute;
